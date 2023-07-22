@@ -21,7 +21,7 @@ const NavigationBer = () => {
                             {headerOptions}
                         </ul>
                     </div>
-                    <a className="btn btn-ghost normal-case text-xl">CollegeBD</a>
+                    <a className="btn btn-ghost normal-case text-2xl">CollegeBD</a>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
@@ -29,7 +29,7 @@ const NavigationBer = () => {
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <a className="btn ">Button</a>
+                    <a className="btn bg-primaryColor">Login</a>
                 </div>
 
             </div>
