@@ -8,7 +8,7 @@ const Footer = () => {
         backgroundPosition: 'center',
       };
     return (
-        <footer style={footerStyle}>
+        <footer className="mt-10" style={footerStyle}>
         <div className="footer p-10 bg-base-300 text-base-content">
             <div>
                 <span className="footer-title">Services</span>
