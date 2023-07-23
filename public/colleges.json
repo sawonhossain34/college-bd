@@ -1,0 +1,110 @@
+[
+      {
+        "college_id": 1,
+        "college_image": "https://unsplash.com/s/photos/college-jpg",
+        "college_name": "ABC University",
+        "college_rating": 4.8,
+        "admission_date": "2023-09-01",
+        "research_count": 200,
+        "details": {
+          "events": [
+            "Annual Cultural Fest",
+            "Tech Symposium",
+            "Sports Meet"
+          ],
+          "sports_facilities": [
+            "Football Ground",
+            "Basketball Court",
+            "Tennis Courts",
+            "Swimming Pool"
+          ]
+        }
+      },
+      {
+        "college_id": 2,
+        "college_image": "https://example.com/college2.jpg",
+        "college_name": "XYZ College",
+        "college_rating": 4.5,
+        "admission_date": "2023-08-15",
+        "research_count": 150,
+        "details": {
+          "events": [
+            "Science Expo",
+            "Literary Fest",
+            "Music Concerts"
+          ],
+          "sports_facilities": [
+            "Cricket Ground",
+            "Volleyball Court",
+            "Badminton Courts",
+            "Gymnasium"
+          ]
+        }
+      },
+      {
+        "college_id": 3,
+        "college_image": "https://example.com/college3.jpg",
+        "college_name": "PQR Institute",
+        "college_rating": 4.2,
+        "admission_date": "2023-09-15",
+        "research_count": 80,
+        "details": {
+          "events": [
+            "Annual Fest",
+            "Workshops",
+            "Sports Carnival"
+          ],
+          "sports_facilities": [
+            "Hockey Field",
+            "Table Tennis",
+            "Squash Courts",
+            "Athletics Track"
+          ]
+        }
+      },
+      {
+        "college_id": 4,
+        "college_image": "https://example.com/college4.jpg",
+        "college_name": "LMN University",
+        "college_rating": 4.7,
+        "admission_date": "2023-08-25",
+        "research_count": 180,
+        "details": {
+          "events": [
+            "Tech Fest",
+            "Literary Symposium",
+            "Sports Championship"
+          ],
+          "sports_facilities": [
+            "Baseball Field",
+            "Rugby Ground",
+            "Fitness Center",
+            "Yoga Studio"
+          ]
+        }
+      },
+      {
+        "college_id": 5,
+        "college_image": "https://example.com/college5.jpg",
+        "college_name": "EFG College",
+        "college_rating": 4.4,
+        "admission_date": "2023-09-10",
+        "research_count": 120,
+        "details": {
+          "events": [
+            "Cultural Gala",
+            "Coding Hackathon",
+            "Inter-College Sports"
+          ],
+          "sports_facilities": [
+            "Archery Range",
+            "Golf Course",
+            "Cycling Track",
+            "Rock Climbing Wall"
+          ]
+        }
+      }
+    ]
+    
+
+  

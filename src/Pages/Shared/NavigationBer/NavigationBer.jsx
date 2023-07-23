@@ -1,13 +1,15 @@
+import { Link } from "react-router-dom";
 import headerImg from "../../../assets/images/header-bg.png"
 
 
 const NavigationBer = () => {
     const headerOptions =
     <>
-    <li><a>Home</a></li>
-    <li><a>Colleges</a></li>
-    <li><a>Admission</a></li>
-    <li><a>My College</a></li>
+    <li><Link to="/">Home</Link></li>
+    <li><Link to="/colleges">Colleges</Link></li>
+    <li><Link to="/admission">Admission</Link></li>
+    <li><Link to="/mycollege">My College</Link></li>
+
     </>
     return (
         <>

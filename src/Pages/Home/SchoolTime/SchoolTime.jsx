@@ -3,14 +3,11 @@ import schoolTime from "../../../assets/images/school-time.jpg";
 
 const SchoolTime = () => {
     return (
-        <div className="mt-10">
-            <div className="text-center">
+        <div className="mt-20">
+            <div className="text-center m-10">
                 <p className="text-xl font bold">
-                    All College
+                ALL IVY SCHOOL, ALL THE TIME
                 </p>
-                <h2 className="text-5xl font-bold">
-                    New Events
-                </h2>
             </div>
 
             <div className="hero h-min	p-10  rounded bg-base-200">

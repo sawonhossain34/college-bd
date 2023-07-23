@@ -5,7 +5,7 @@ import eventImg04 from "../../../assets/images/event04.jpg"
 
 const NewEvent = () => {
     return (
-        <div className="mt-10">
+        <div className="mt-20">
             <div className="text-center">
                 <p className="text-xl font bold">
                     All College
